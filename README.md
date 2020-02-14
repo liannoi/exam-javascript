@@ -1,7 +1,7 @@
 # JavaScript Course
 
-Examination work done by me at ITStep Academy. The work was checked and
-evaluated on 12/12, teacher Vasilenko Igor Grigoryevich.
+Examination project performed by me at the STEP Computer Academy. **I got 12/12
+for work. Teacher: Vasilenko Igor Grigorevich**.
 
 ### Duration and purpose
 
