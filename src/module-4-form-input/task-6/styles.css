@@ -1,0 +1,17 @@
+.form-block form {
+    background-color: #87939A;
+    color: #FFFFFF;
+    padding: 20px 40px;
+    overflow: hidden;
+    height: auto;
+}
+
+.form-block form button {
+    width: 80px;
+    height: 28px;
+    background-color: #318CAF;
+    border: 1px solid #C2C2C2;
+    color: #FFFFFF;
+    margin-top: 20px;
+    float: right;
+}
